@@ -160,3 +160,7 @@ cython_debug/
 .idea
 
 /Q3/Processed_Data_Q3/
+
+/Q3/Data_Q3/
+
+/Temp/
